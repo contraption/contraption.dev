@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-docs.com',
-    'production' => true,
+    'baseUrl'            => 'https://contraption.dev',
+    'production'         => true,
 
     // DocSearch credentials
-    'docsearchApiKey' => '',
+    'docsearchApiKey'    => '',
     'docsearchIndexName' => '',
 ];
